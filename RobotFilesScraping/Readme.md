@@ -54,7 +54,6 @@ A comparative analysis is performed between Group A and Group B publishers, obse
 Time-series and bar plots are generated to visualize trends in crawler blocking and the comparative analysis between the two groups.
 
 # Data Processing and Analysis
-# Data Flow:
 1. Data Collection: Fetch robots.txt snapshots from the Wayback Machine for each publisher.
 
 2. Content Extraction: Extract the content of the robots.txt file for each snapshot.
